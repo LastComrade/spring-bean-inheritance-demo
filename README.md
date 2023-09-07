@@ -1,0 +1,1 @@
+# spring-bean-inheritance-demo
