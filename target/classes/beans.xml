@@ -9,7 +9,7 @@
         http://www.springframework.org/schema/context 
         http://www.springframework.org/schema/context/spring-context.xsd">
 
-	<bean abstract="true" id="BaseBook" class="com.deloitte.beans.Book">
+	<bean abstract="false" id="BaseBook" class="com.deloitte.beans.Book">
 		<property name="bookName" value="Spring in action" />
 		<property name="bookAuthor" value="Craig Walls" />
 		<property name="bookPrice" value="69.420" />
